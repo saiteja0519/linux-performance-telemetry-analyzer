@@ -1,0 +1,24 @@
+{
+  "cpu_percent": 0.0,
+  "disk": {
+    "percent": 0.0,
+    "total_gb": 0.0,
+    "used_gb": 0.0
+  },
+  "hostname": "saiteja",
+  "memory": {
+    "percent": 0.0,
+    "total_gb": 0.0,
+    "used_gb": 0.0
+  },
+  "network": {
+    "bytes_recv": 0,
+    "bytes_sent": 0,
+    "packets_recv": 0,
+    "packets_sent": 0
+  },
+  "platform": "Windows-10-10.0.26200-SP0",
+  "process_count": 0,
+  "system": "Windows",
+  "timestamp": "2026-10-15T04:33:39.419541+00:00"
+}

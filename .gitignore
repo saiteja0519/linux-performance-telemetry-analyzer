@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environment
+.venv/
+venv/
+
+# Generated runtime data
+telemetry.db
+telemetry.json
+analysis.json
+
+# Environment secrets
+.env
+
+# IDE and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
